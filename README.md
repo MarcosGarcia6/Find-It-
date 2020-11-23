@@ -8,10 +8,13 @@ The first thing the program would ask the user is wheter they have preferences o
 
 We though that the most relevant preference could be: The location, the price, and the time where the user wants to go.  
 
-In the first case the location. The algorithm asks the user for the location that they would like the information.(PLaza or aqueduct)
+We though that since there are not enough places in Segovia we are not going to add the option of meeting various preferences. If we expanded the idea to another places we would allow inputing various preferences.
+
+
+In the first case the location. The algorithm asks the user for the location that they would like the information.(PLaza or aqueduct) And it will print the places that are in that location.
 
 In respect for the schedule of each restaurant. The algorithm asks the user when they would like to go, the restaurants that do not meet the condition are not printed. While the ones that meet the condition are printed. 
 
 In the last preference we developed was the price. Depending on the price the user would input from a scale from 1 to 3, cheap to expensive respectively. The algorithm would print the places that are lower or equal to the price they chose. 
 
-We also have to remember that it is important to know that this is the minimal viable product. So we did not go deep in trying to print various conditions simultaneously. And we just want a simple program to search information. 
+We also have to remember that it is important to know that this is the minimal viable product. So we did not go deep in trying to print various conditions simultaneously. And we just want a simple program to search information to a relative small place, plaza and aqueduct of Segovia.
