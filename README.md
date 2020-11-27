@@ -3,10 +3,18 @@ Algorithm final project
 Authors: Marcos García, Alejandro Felip, Alonso Ramos, Pablo Khouri and Gonzalo Sainz De Aja
 
 Language for our program:
--	Python
+   - Python
 
 Packages needed for our program:
--	Python version 3.8
+   - Python version 3.8
+
+Environment for our program:
+   - Pycharm
+Libraries:
+   - We did not implement any libraries in our program, we used the ones implemented in pycharm.
+ Operative system: 
+   - Windows 
+ 
 
 Specifications of our code will be separated into steps:
 
