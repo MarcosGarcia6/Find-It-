@@ -2,19 +2,30 @@
 Algorithm final project 
 Authors: Marcos García, Alejandro Felip, Alonso Ramos, Pablo Khouri and Gonzalo Sainz De Aja
 
+Specifications of our code will be separated into steps:
+
+1. To use our code you just need to run the code. We tried to make our code as simple as possible so the user doesn't have to writte or think a lot. Once you writte the option you will have to press <enter>.
+
+2. Once you run the code they will ask you several questions regarding what does the user want. The first question will be if you have any preference or if you just want information about a restaurant of a certain type of food.
+
+3. You will have to choose writting 1 or 2 depending on the user(this will be specified in the code). 
+
+4. If you choose option 1 the user will have to select the type of food they want(italian, american, turkish, japanese and spanish) once the user writtes down the option they want and they press <enter>, the program will print the restaurants of that type.
+
+5. If you choose option 2 the user will be asked more questions depending on what they choose.
+
+6. The preferences are: If the shop is open at a certain time, the zone where the user wants the restaurant, or the price they are willing to pay. 
+    - If you choose the time preference, you will have to writte down the time in terms of 24 hours and press <enter>.
+    - If you choose the zone preference, you will have to writte down one of the two options: (Plaza of aqueduct) and press <enter>.
+    - If you choose the price preference, you will have to writte down a number from 1 to 3 from cheap to expensive, and press <enter>.
+
+7. The algorithm will print the restaurants that meet the condition.
+
 The main focus of our algorithm is to give information as quickly as possible in a very simple way. We want the user to know quickly and in a simple way the information about the restaurants in Segovia. This is the reason we used hash tables. Which is really quick for the algorithm we wanted to develop.
 
-The first thing the program would ask the user is wheter they have preferences or they just want information about places to eat in Segovia. You have to press 1 if you have any preferences or 2 if you do not have any. Once they chosed, in the case they would like just information. The algorithm would then ask the kind of restaurant they would like information about. In the other case where the user has preferences they would have to respond more questions, but the results are more specific for their interests.
-
-We though that the most relevant preference could be: The location, the price, and the time where the user wants to go.  
 
 We though that since there are not enough places in Segovia we are not going to add the option of meeting various preferences. If we expanded the idea to another places we would allow inputing various preferences.
 
 
-In the first case the location. The algorithm asks the user for the location that they would like the information.(PLaza or aqueduct) And it will print the places that are in that location.
-
-In respect for the schedule of each restaurant. The algorithm asks the user when they would like to go, the restaurants that do not meet the condition are not printed. While the ones that meet the condition are printed. 
-
-In the last preference we developed was the price. Depending on the price the user would input from a scale from 1 to 3, cheap to expensive respectively. The algorithm would print the places that are lower or equal to the price they chose. 
 
 We also have to remember that it is important to know that this is the minimal viable product. So we did not go deep in trying to print various conditions simultaneously. And we just want a simple program to search information to a relative small place, plaza and aqueduct of Segovia.
