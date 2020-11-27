@@ -9,8 +9,8 @@ Language for our program:
 Environment for our program:
    - Pycharm
    
-Libraries:
-   - We did not implement any libraries in our program, we used the ones implemented in pycharm.
+Imported libraries:
+   - None
    
 Operative system: 
    - Windows 
