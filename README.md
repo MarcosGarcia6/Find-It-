@@ -3,10 +3,8 @@ Algorithm final project
 Authors: Marcos García, Alejandro Felip, Alonso Ramos, Pablo Khouri and Gonzalo Sainz De Aja
 
 Language for our program:
-   - Python
-
-Packages needed for our program:
    - Python version 3.8
+
 
 Environment for our program:
    - Pycharm
