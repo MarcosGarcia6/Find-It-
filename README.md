@@ -12,7 +12,7 @@ Specifications of our code will be separated into steps:
 
 4. If you choose option 1 the user will have to select the type of food they want(italian, american, turkish, japanese and spanish) once the user writtes down the option they want and they press <enter>, the program will print the restaurants of that type.
 
-5. If you choose option 2 the user will be asked more questions depending on what they choose.
+5. If you choose option 2 the user will be asked more questions depending on what they choose, the user will have to type(time, price or location) depending on their refrence and then press <enter>.
 
 6. The preferences are: If the shop is open at a certain time, the zone where the user wants the restaurant, or the price they are willing to pay. 
     - If you choose the time preference, you will have to writte down the time in terms of 24 hours and press <enter>.
